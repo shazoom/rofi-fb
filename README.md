@@ -7,7 +7,7 @@ doing imports and defining functions when we need to do some work.
 
 If this file is named rofi-fb then it will launch gnome-terminal, if it is
 named rofi-gfb it will launch nemo. You should change it to whatever you
-like 😉 Make a hard link from rofi-fb to rofigfb.
+like 😉 Make a hard link from rofi-fb to rofi-gfb.
 
 Run this python script as a shell script, i.e.: rofi -show window -modi
 "drun,run,fb:<path to dir containing rofi-fb>/rofi-fb"  
